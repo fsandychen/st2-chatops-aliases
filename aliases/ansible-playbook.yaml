@@ -5,4 +5,4 @@ name: "chatops.ansible_playbook"
 action_ref: "ansible.playbook"
 description: "Run ansible-playbook command on local machine"
 formats:
-  - "ansible.playbook {{playbook}} i "
+  - "ansible.playbook {{playbook}} i="
